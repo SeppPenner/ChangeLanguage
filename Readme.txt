@@ -1,0 +1,1 @@
+XMlDE.xml und XMLUS.xml nach C:\userdata kopieren oder in ChangeLanguage.txt den Pfad ändern und als ChangeLanguage.bat speichern.

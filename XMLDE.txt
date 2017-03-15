@@ -1,0 +1,26 @@
+<gs:GlobalizationServices xmlns:gs="urn:longhornGlobalizationUnattend">
+
+ 
+
+ <!--User List-->
+
+ <gs:UserList>
+
+ <gs:User UserID="Current"/>
+
+ </gs:UserList>
+
+ 
+
+ <!--User Locale-->
+
+ <gs:UserLocale> 
+
+ <gs:Locale Name="de-DE" SetAsCurrent="true"/> 
+
+ </gs:UserLocale>
+
+ 
+
+</gs:GlobalizationServices>
+
