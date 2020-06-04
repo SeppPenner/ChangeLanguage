@@ -13,4 +13,4 @@ ChangeLanguage is a batch file to change the current system language from German
 Change history
 --------------
 
-* **Version 1.0.0.0 (2017-03-15)** : 1.0 release.
+See the [Changelog](https://github.com/SeppPenner/ChangeLanguage/blob/master/Changelog.md).
